@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: gguerra@nowtic.es\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2017-02-24 13:30+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/conectadelsol-Customers.php:35
+msgid "Additional Information"
+msgstr ""
+
+#: includes/conectadelsol-Customers.php:40
+msgid "NIF-DNI"
+msgstr ""
+
+#: includes/conectadelsol-Customers.php:42
+msgid "Enter the ID card number"
+msgstr ""
+
+#: includes/conectadelsol-Customers.php:55
+msgid ""
+"ID card number is a required field. You must enter your ID number to "
+"complete the purchase."
+msgstr ""
+
+#: includes/conectadelsol-Customers.php:73
+msgid "NIF"
+msgstr ""
+
+#: includes/conectadelsol-media-functions.php:32
+msgid "There was an error uploading the image."
+msgstr ""
+
+#: includes/conectadelsol-Products.php:42
+#: includes/conectadelsol-Products.php:107
+msgid "FactuSol Id"
+msgstr ""
+
+#: includes/conectadelsol-Products.php:43
+msgid "FactuSol product code"
+msgstr ""
+
+#: includes/conectadelsol-Products.php:45
+msgid "Introduce FactuSol product code"
+msgstr ""
+
+#: includes/conectadelsol-ProductsCategories.php:63
+#: includes/conectadelsol-ProductsCategories.php:106
+msgid "FactuSol code for relation."
+msgstr ""
+
+#: includes/conectadelsol-ProductsCategories.php:176
+msgid "FactuSol code"
+msgstr ""
+
+#: includes/conectadelsol-Statuses.php:49
+#: includes/conectadelsol-Statuses.php:60
+msgctxt "Order status"
+msgid "Invoiced"
+msgstr ""
+
+#: includes/conectadelsol-Statuses.php:54
+#, php-format
+msgid "Invoiced <span class=\"count\">(%s)</span>"
+msgid_plural "Invoiced<span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""

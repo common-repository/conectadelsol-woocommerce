@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: ConectaDelSol WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-24 12:48+0100\n"
+"PO-Revision-Date: 2017-02-24 13:18+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: gguerra <gguerra@nowtic.es>\n"
+"Language: es\n"
+
+#: includes/conectadelsol-Customers.php:35
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: includes/conectadelsol-Customers.php:40
+msgid "NIF-DNI"
+msgstr "NIF/DNI"
+
+#: includes/conectadelsol-Customers.php:42
+msgid "Enter the ID card number"
+msgstr "Introduzca el número de tarjeta de identificación"
+
+#: includes/conectadelsol-Customers.php:55
+msgid ""
+"ID card number is a required field. You must enter your ID number to "
+"complete the purchase."
+msgstr ""
+"Debe ingresar un número de DNI/CIF válido UE para completar la "
+"compra."
+
+#: includes/conectadelsol-Customers.php:73
+msgid "NIF"
+msgstr "NIF"
+
+#: includes/conectadelsol-media-functions.php:32
+msgid "There was an error uploading the image."
+msgstr "Error al subir la imagen."
+
+#: includes/conectadelsol-Products.php:42
+#: includes/conectadelsol-Products.php:107
+msgid "FactuSol Id"
+msgstr "Id de Factusol"
+
+#: includes/conectadelsol-Products.php:43
+msgid "FactuSol product code"
+msgstr "Código del producto en FactuSol"
+
+#: includes/conectadelsol-Products.php:45
+msgid "Introduce FactuSol product code"
+msgstr "Introduzca código del producto en FactuSol"
+
+#: includes/conectadelsol-ProductsCategories.php:63
+#: includes/conectadelsol-ProductsCategories.php:106
+msgid "FactuSol code for relation."
+msgstr "Código del producto en FactuSol para la relación."
+
+#: includes/conectadelsol-ProductsCategories.php:176
+msgid "FactuSol code"
+msgstr "Código del producto en FactuSol"
+
+#: includes/conectadelsol-Statuses.php:49
+#: includes/conectadelsol-Statuses.php:60
+msgctxt "Order status"
+msgid "Invoiced"
+msgstr "Facturado"
+
+#: includes/conectadelsol-Statuses.php:54
+#, php-format
+msgid "Invoiced <span class=\"count\">(%s)</span>"
+msgid_plural "Invoiced<span class=\"count\">(%s)</span>"
+msgstr[0] "Facturado <span class=\"count\">(%s)</span>"
+msgstr[1] "Facturados <span class=\"count\">(%s)</span>"
